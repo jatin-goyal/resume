@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-size: 0.8em;
+  line-height: 1.2;
+}
+
+.container {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+}
+
+thead {
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 2px;
+}
+
+.project > .meta {
+  font-size: 0.8em;
+}
+
+.project > .meta > .date {
+  float: right;
+}
